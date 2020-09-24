@@ -1,0 +1,2 @@
+﻿-เพิ่ม library ชื่อ  json-simple-1.1 ที่ให้มาลงใน project ด้วย
+-ใน Class ที่ชื่อ Client ตรงที่สร้าง socket ในส่วนของ ip address กำหนดเป็น localhost อยู่
